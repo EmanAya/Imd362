@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+table{
+  width: 50%
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+td {
+  text-align: center;
+
+}
+
+.cell {
+  color: red;
+  display: block;
+  background-color: aliceblue;
+  cursor: pointer;
+}
